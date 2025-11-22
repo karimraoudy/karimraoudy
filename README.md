@@ -791,8 +791,8 @@ Technical workshops, mentoring, and community building
 ║                                                                ║
 ║  Level 8+ | S-Rank Developer | 100% Mission Success Rate      ║
 ║                                                                ║
-║  "Transforming ideas into pixel-perfect reality, one line     ║
-║   of code at a time"                                          ║
+║  "Transforming ideas into reality"                             ║
+║                                                                ║
 ║                                                                ║
 ╚═══════════════════════════════════════════════════════════════╝
 </pre>
