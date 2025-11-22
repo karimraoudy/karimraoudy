@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0099ff&height=200&section=header&text=KARIM%20RAOUDY&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%E2%9A%A1+FULL-STACK+WORDPRESS+DEVELOPER+%E2%9A%A1;%F0%9F%8E%AE+Performance+Specialist+%7C+UI%2FUX+Engineer+%F0%9F%8E%AE;%F0%9F%A4%96+AI+%26+Automation+Specialist+%F0%9F%A4%96" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=8%2B+Years+WordPress+Master;S-Rank+Full-Stack+Developer;100%25+Mission+Success+Rate;Available+for+New+Quests" alt="Typing SVG" />
 
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
