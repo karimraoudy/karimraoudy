@@ -327,9 +327,19 @@ Status: IN PROGRESS | Priority: HIGH
 
 <div align="center">
 
+## ⚔️ EQUIPPED ABILITIES
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=wordpress,php,js,react,mysql,sass,html,css,git,figma,vscode,linux&perline=6&theme=dark"/>
+
+</p>
+
+---
+
 ## 💾 TECHNOLOGY ARSENAL
 
-<pre>
+<pre style="text-align: center;">
 > Initializing Tech Stack...
 > Loading Core Systems... [████████████████████] 100%
 > Status: All Systems Operational
