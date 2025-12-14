@@ -785,7 +785,7 @@ Technical workshops, mentoring, and community building
 ║                     PROFILE END SCREEN                         ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                                                                ║
-║  © 2025 KARIM RAOUDY | Full-Stack WordPress Developer         ║
+║  © 2025 KARIM RAOUDY | Full-Stack Developer                    ║
 ║                                                                ║
 ║  Crafted with passion, code, and a bit of game magic ✨       ║
 ║                                                                ║
